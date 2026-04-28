@@ -1,3 +1,3 @@
 # My_first_website
-this is my first of dear dost
+This is my first website called- dear dost .
 Author - Jiya Shah
